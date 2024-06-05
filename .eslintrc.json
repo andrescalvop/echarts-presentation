@@ -17,8 +17,7 @@
         "plugin:react-hooks/recommended",
         "plugin:boundaries/recommended",
         "plugin:prettier/recommended",
-        "next",
-        "plugin:storybook/recommended"
+        "next"
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
